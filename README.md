@@ -1,4 +1,1 @@
-Final-Project
-=============
-
-This is my final project for DevMountain
+This is a simple custom search engine for outdoor gear.
